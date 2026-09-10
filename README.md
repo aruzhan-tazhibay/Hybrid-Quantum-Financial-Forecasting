@@ -1,6 +1,6 @@
 # Hybrid-Quantum-Financial-Forecasting
 
-This repository contains the dataset and trained models (classical deep learning models, quantum neural networks, and hybrid quantum-classical architectures) for forecasting the S&P 500 index using binary classification, multiclass classification, and regression-based approaches.
+This repository contains the dataset, training notebooks, and trained models (classical deep learning models, quantum neural networks, and hybrid quantum-classical architectures) for forecasting the S&P 500 index using binary classification, multiclass classification, and regression-based approaches.
 
 ---
 
@@ -68,6 +68,9 @@ models/
     binary classification/
     multiclass classification/
     regression/
+
+training notebooks/
+requirements.txt
 ```
 
 ---
