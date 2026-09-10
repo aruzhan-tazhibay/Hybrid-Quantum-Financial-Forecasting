@@ -1,5 +1,5 @@
 # Core Numerical & Data Processing
-numpy>=1.23.0
+numpy>=1.23.0,<2.0.0
 pandas>=2.0.0
 yfinance>=0.2.20
 scikit-learn>=1.2.0
@@ -13,7 +13,7 @@ pennylane>=0.30.0
 
 # Statistical Analysis & Baselines
 statsmodels>=0.14.0
-scipy>=1.10.0
+scipy>=1.10.0,<1.14.0
 
 # Utilities
 tqdm>=4.65.0
